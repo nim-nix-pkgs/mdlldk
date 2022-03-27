@@ -11,6 +11,7 @@
   inputs.src-mdlldk-main.ref   = "refs/heads/main";
   inputs.src-mdlldk-main.owner = "rockcavera";
   inputs.src-mdlldk-main.repo  = "nim-mdlldk";
+  inputs.src-mdlldk-main.dir   = "";
   inputs.src-mdlldk-main.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

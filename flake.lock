@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1653696494,
-        "narHash": "sha256-6JypYqbSij+PPO3H7umIjNw0RAsjaR2+R5o4s2oQCRI=",
+        "lastModified": 1653702026,
+        "narHash": "sha256-X5E+E+DR1tbCk6fW2F6YAalXMUP73dCjPVZ1IFqG7DM=",
         "owner": "nim-nix-pkgs",
         "repo": "mdlldk",
-        "rev": "e79725b328fc18b28ecfda186605137f8d6f7a8f",
+        "rev": "4322f564fd3a2488c01b8268c119de8bbea65004",
         "type": "github"
       },
       "original": {
@@ -50,8 +50,9 @@
     },
     "nixpkgs": {
       "locked": {
-        "narHash": "sha256-7sWpWRO0IsBP5jm9qCrpuzDkWC7UAghiCmZZ+1uqHKo=",
-        "path": "/nix/store/q2jrkx5a3z6yxzbfai0kxpnqki80jm3l-source",
+        "lastModified": 0,
+        "narHash": "sha256-BBeCZwZImtjP3oYy4WogkQYy5OxNyfNciVSc1AfZgLQ=",
+        "path": "/nix/store/z8fi1f38y14lmsyhnph1l98qr3r9x7wr-source",
         "type": "path"
       },
       "original": {

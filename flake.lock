@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1658031996,
-        "narHash": "sha256-g8DBE7i2DuqsuRLQuZi7mR+md9aun6M0URsZ9w9mhGU=",
+        "lastModified": 1658201581,
+        "narHash": "sha256-VyNPeP7EsGcyudf27I8IgFFaQwWXgeCDgNtkAfoJjMI=",
         "owner": "nim-nix-pkgs",
         "repo": "mdlldk",
-        "rev": "2b380f46263b462d4f9120ab0e35468479c063aa",
+        "rev": "913fa0b721b838d0d01d4d08314c9aa5fa9a0c26",
         "type": "github"
       },
       "original": {
